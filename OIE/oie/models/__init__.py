@@ -1,0 +1,1 @@
+from oie.models.semisupervised_open_information_extraction import SemisupOpenIeModel

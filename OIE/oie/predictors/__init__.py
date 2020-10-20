@@ -1,0 +1,1 @@
+from oie.predictors.open_information_extraction import OpenIePredictor

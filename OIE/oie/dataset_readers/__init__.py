@@ -1,0 +1,2 @@
+from oie.dataset_readers.my_semantic_role_labeling import MySrlReader
+from oie.dataset_readers.my_semantic_role_labeling_head import MySrlReaderHead
