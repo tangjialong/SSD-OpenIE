@@ -4,4 +4,4 @@
 
 3. Folder "supervised-oie" contains the openly released evaluation repository.
 
-# TODO upload datasets and clearer source codes
+TODO upload datasets and clearer source codes
